@@ -1,0 +1,33 @@
+### Create Transaction
+POST http://127.0.0.1:8000/api/transactions/
+Content-Type: application/json
+
+{
+    "amount": 100.00,
+    "transaction_type": "WITHDRAWAL",
+    "user": 1
+}
+
+###
+
+### Get All Transactions for User
+GET http://127.0.0.1:8000/api/transactions/all/?user_id=1
+Content-Type: application/json
+
+###
+
+### Get Specific Transaction by ID
+GET http://127.0.0.1:8000/api/transactions/5/
+Content-Type: application/json
+
+###
+
+### Update Transaction Status (e.g., mark as COMPLETED)
+PUT http://127.0.0.1:8000/api/transactions/5/update/
+Content-Type: application/json
+
+{
+    "status": "COMPLETED"
+}
+
+###
