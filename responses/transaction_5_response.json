@@ -1,0 +1,8 @@
+{
+    "id": 5,
+    "amount": "100.00",
+    "transaction_type": "WITHDRAWAL",
+    "user": 1,
+    "timestamp": "2024-11-20T21:09:48.452241Z",
+    "status": "COMPLETED"
+}

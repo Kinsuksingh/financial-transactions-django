@@ -1,0 +1,84 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "amount": "100.00",
+            "transaction_type": "DEPOSIT",
+            "user": 1,
+            "timestamp": "2024-11-20T20:47:07.034523Z",
+            "status": "COMPLETED"
+        },
+        {
+            "id": 2,
+            "amount": "100.00",
+            "transaction_type": "DEPOSIT",
+            "user": 1,
+            "timestamp": "2024-11-20T20:55:12.341313Z",
+            "status": "PENDING"
+        },
+        {
+            "id": 3,
+            "amount": "100.00",
+            "transaction_type": "DEPOSIT",
+            "user": 1,
+            "timestamp": "2024-11-20T20:58:30.771728Z",
+            "status": "COMPLETED"
+        },
+        {
+            "id": 4,
+            "amount": "100.00",
+            "transaction_type": "DEPOSIT",
+            "user": 1,
+            "timestamp": "2024-11-20T21:07:44.170396Z",
+            "status": "PENDING"
+        },
+        {
+            "id": 5,
+            "amount": "100.00",
+            "transaction_type": "WITHDRAWAL",
+            "user": 1,
+            "timestamp": "2024-11-20T21:09:48.452241Z",
+            "status": "COMPLETED"
+        },
+        {
+            "id": 6,
+            "amount": "100.00",
+            "transaction_type": "WITHDRAWAL",
+            "user": 1,
+            "timestamp": "2024-11-20T21:39:40.128451Z",
+            "status": "PENDING"
+        },
+        {
+            "id": 7,
+            "amount": "100.00",
+            "transaction_type": "WITHDRAWAL",
+            "user": 1,
+            "timestamp": "2024-11-20T21:41:17.838013Z",
+            "status": "PENDING"
+        },
+        {
+            "id": 8,
+            "amount": "100.00",
+            "transaction_type": "WITHDRAWAL",
+            "user": 1,
+            "timestamp": "2024-11-20T21:43:15.745322Z",
+            "status": "PENDING"
+        },
+        {
+            "id": 9,
+            "amount": "100.00",
+            "transaction_type": "WITHDRAWAL",
+            "user": 1,
+            "timestamp": "2024-11-20T21:53:47.324644Z",
+            "status": "PENDING"
+        },
+        {
+            "id": 10,
+            "amount": "100.00",
+            "transaction_type": "WITHDRAWAL",
+            "user": 1,
+            "timestamp": "2024-11-20T22:01:42.180732Z",
+            "status": "PENDING"
+        }
+    ]
+}
