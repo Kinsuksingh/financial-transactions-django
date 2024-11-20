@@ -1,0 +1,23 @@
+# Virtual environment
+env/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Database
+db.sqlite3
+
+# Django secrets
+*.env
+
+# Logs
+*.log
+
+# Static and media files
+staticfiles/
+media/
+
+# IDE files
+.vscode/
+.idea/
