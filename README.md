@@ -156,3 +156,7 @@ This API provides a simple and effective solution for managing financial transac
   ```
 
 4. Your frontend will run on http://localhost:5173/
+
+![image](https://github.com/user-attachments/assets/ab2116bc-9fbd-4b78-83e5-d206f9c38ed0)
+![image](https://github.com/user-attachments/assets/5a12f28c-e1aa-4f4c-bd8c-a782138fa94a)
+
