@@ -141,3 +141,18 @@ python requests_test.py
 
 ## Conclusion
 This API provides a simple and effective solution for managing financial transactions, built with Django and Django REST Framework. It supports the basic CRUD operations required for transaction management.
+
+
+
+# Setting up the Frontend
+
+1. First, run the server.
+2. Then, navigate to the frontend folder.
+3. Run below commands: 
+
+  ```bash
+  npm install
+  npm run dev
+  ```
+
+4. Your frontend will run on http://localhost:5173/
